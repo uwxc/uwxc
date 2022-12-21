@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ana Ivanova</h1>
 <h3 align="center">A Information technology specialist from Russia.</h3>
 
-<img align="right" alt="coding" width="400" src="(https://user-images.githubusercontent.com/121188522/208970541-e4e5df11-3a80-4b87-9a1c-719366faefda.png)">
+<img align="right' alt="coding" width="400" src>="https://user-images.githubusercontent.com/41088314/177623289-d502249b-197d-4a82-a0d6-d8d56cbee093.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uwxc&label=Profile%20views&color=0e75b6&style=flat" alt="uwxc" /> </p>
 
